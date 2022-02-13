@@ -1,7 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
   "citation": "Quentin Groom. 2022. Refuting biotic interactions that have been mistakenly made in iNaturalist.",
-  "deprecated": false
   "licence": "CC0",
   "version": "1.0",
   "deprecated": false
